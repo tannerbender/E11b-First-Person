@@ -33,9 +33,6 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.54735, 2.63189, 0.0999665 )
 [node name="Crate3" parent="." instance=ExtResource( 1 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.56277, 0.647794, 0.439583 )
 
-[node name="Camera" type="Camera" parent="."]
-transform = Transform( 0.456703, 0, 0.889619, 0, 1, 0, -0.889619, 0, 0.456703, 0, 1.54009, 0 )
-
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 transform = Transform( 0.939326, 0.165016, 0.300728, -0.320125, 0.736663, 0.595691, -0.123237, -0.655818, 0.744792, 0, 4.22297, 0 )
 shadow_enabled = true
